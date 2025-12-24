@@ -1,0 +1,5 @@
+acrylic
+streamlit
+pandas
+google-api-python-client
+st-gsheets-connection
